@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-users-aniket/static/css/main.7f6e3589.css",
+    "main.js": "/react-users-aniket/static/js/main.941e6d18.js",
+    "static/js/488.fbe535e1.chunk.js": "/react-users-aniket/static/js/488.fbe535e1.chunk.js",
+    "index.html": "/react-users-aniket/index.html",
+    "main.7f6e3589.css.map": "/react-users-aniket/static/css/main.7f6e3589.css.map",
+    "main.941e6d18.js.map": "/react-users-aniket/static/js/main.941e6d18.js.map",
+    "488.fbe535e1.chunk.js.map": "/react-users-aniket/static/js/488.fbe535e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f6e3589.css",
+    "static/js/main.941e6d18.js"
+  ]
+}
